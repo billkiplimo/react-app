@@ -1,0 +1,19 @@
+header{
+  display: block;
+  top: 0;
+}
+
+
+.nav  {
+  display: flex;
+  gap: 20px;
+  margin-left: 20px;
+}
+.nav li a{
+  margin-left: 20px;
+ 
+}
+.fName{
+  cursor: pointer;
+  font-family: sans-serif;
+}
